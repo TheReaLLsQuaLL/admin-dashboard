@@ -26,7 +26,7 @@ import {
 import "./App.css";
 
 const App = () => {
-  const activeMenu = false;
+  const activeMenu = true;
   return (
     <BrowserRouter>
       <div className="flex relative dark:bg-main-dark-bg">
@@ -71,7 +71,7 @@ const App = () => {
             {/*Widgets*/}
             <Route path="/kanban" element={<Kanban />} />
             <Route path="/editor" element={<Editor />} />
-            <Route path="/calender" element={<Calender />} />
+            <Route path="/calendar" element={<Calendar />} />
             <Route path="/color-picker" element={<ColorPicker />} />
             {/*Charts*/}
             <Route path="/line" element={<Line />} />
