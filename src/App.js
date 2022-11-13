@@ -22,7 +22,6 @@ import {
   ColorPicker,
   ColorMapping,
   Editor,
-  SparkLine,
 } from "./pages";
 import "./App.css";
 import { useStateContext } from "./contexts/ContextProvider";
