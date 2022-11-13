@@ -91,8 +91,8 @@ const Ecommerce = () => {
                   currentColor="blue"
                   id="line-sparkline"
                   type="Line"
-                  height="8rem"
-                  width="25rem"
+                  height="80px"
+                  width="250px"
                   data={SparklineAreaData}
                   color="blue"
                 />
@@ -102,7 +102,7 @@ const Ecommerce = () => {
                   color="white"
                   bgColor="blue"
                   text="Download Report"
-                  borderRadius="1rem"
+                  borderRadius="10px"
                 />
               </div>
             </div>
