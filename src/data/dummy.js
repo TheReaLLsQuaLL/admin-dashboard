@@ -98,46 +98,71 @@ const gridEmployeeCountry = (props) => (
 export const EditorData = () => (
   <div>
     <h3>
-      Try React React has been designed from the start for gradual adoption, and
-      you can use as little or as much React as you need. Whether you want to
-      get a taste of React, add some interactivity to a simple HTML page, or
-      start a complex React-powered app, the links in this section will help you
-      get started. Online Playgrounds If you’re interested in playing around
-      with React, you can use an online code playground. Try a Hello World
-      template on CodePen, CodeSandbox, or Stackblitz. If you prefer to use your
-      own text editor, you can also download this HTML file, edit it, and open
-      it from the local filesystem in your browser. It does a slow runtime code
-      transformation, so we’d only recommend using this for simple demos. Add
-      React to a Website You can add React to an HTML page in one minute. You
-      can then either gradually expand its presence, or keep it contained to a
-      few dynamic widgets. Create a New React App When starting a React project,
-      a simple HTML page with script tags might still be the best option. It
-      only takes a minute to set up! As your application grows, you might want
-      to consider a more integrated setup. There are several JavaScript
-      toolchains we recommend for larger applications. Each of them can work
-      with little to no configuration and lets you take full advantage of the
-      rich React ecosystem. Learn how. Learn React People come to React from
-      different backgrounds and with different learning styles. Whether you
-      prefer a more theoretical or a practical approach, we hope you’ll find
-      this section helpful. If you prefer to learn by doing, start with our
-      practical tutorial. If you prefer to learn concepts step by step, start
-      with our guide to main concepts. Like any unfamiliar technology, React
-      does have a learning curve. With practice and some patience, you will get
-      the hang of it. First Examples The React homepage contains a few small
-      React examples with a live editor. Even if you don’t know anything about
-      React yet, try changing their code and see how it affects the result.
-      React for Beginners If you feel that the React documentation goes at a
-      faster pace than you’re comfortable with, check out this overview of React
-      by Tania Rascia. It introduces the most important React concepts in a
-      detailed, beginner-friendly way. Once you’re done, give the documentation
-      another try! React for Designers If you’re coming from a design
-      background, these resources are a great place to get started. JavaScript
-      Resources The React documentation assumes some familiarity with
-      programming in the JavaScript language. You don’t have to be an expert,
-      but it’s harder to learn both React and JavaScript at the same time. We
-      recommend going through this JavaScript overview to check your knowledge
-      level. It will take you between 30 minutes and an hour but you will feel
-      more confident learning React.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+      tempor incididunt ut labore et dolore magna aliqua. Enim ut tellus
+      elementum sagittis vitae et. Pellentesque massa placerat duis ultricies
+      lacus sed turpis tincidunt. At urna condimentum mattis pellentesque id.
+      Varius vel pharetra vel turpis nunc. Commodo nulla facilisi nullam
+      vehicula ipsum a arcu cursus. Pellentesque pulvinar pellentesque habitant
+      morbi. Lacus sed turpis tincidunt id aliquet risus. Morbi non arcu risus
+      quis varius quam quisque id. Eros donec ac odio tempor. Consectetur
+      adipiscing elit ut aliquam purus sit. Quam lacus suspendisse faucibus
+      interdum. Id venenatis a condimentum vitae sapien pellentesque habitant
+      morbi. Vulputate sapien nec sagittis aliquam malesuada bibendum. Quam
+      quisque id diam vel quam elementum pulvinar. Feugiat in ante metus dictum
+      at. Et ultrices neque ornare aenean. Arcu odio ut sem nulla pharetra diam.
+      Urna condimentum mattis pellentesque id nibh tortor id aliquet. Volutpat
+      blandit aliquam etiam erat velit. Dignissim sodales ut eu sem integer
+      vitae justo eget magna. Aenean et tortor at risus viverra adipiscing.
+      Commodo nulla facilisi nullam vehicula. Semper quis lectus nulla at
+      volutpat diam ut. Nibh cras pulvinar mattis nunc sed. Nisl nisi
+      scelerisque eu ultrices vitae. Congue quisque egestas diam in. Orci ac
+      auctor augue mauris augue. Sagittis nisl rhoncus mattis rhoncus urna. Diam
+      sollicitudin tempor id eu nisl. Vestibulum sed arcu non odio euismod. Sem
+      fringilla ut morbi tincidunt. Arcu odio ut sem nulla pharetra. Aenean et
+      tortor at risus viverra. Dolor morbi non arcu risus quis varius quam
+      quisque id. Malesuada fames ac turpis egestas. Lorem ipsum dolor sit amet
+      consectetur adipiscing. Vel risus commodo viverra maecenas accumsan lacus
+      vel. Id venenatis a condimentum vitae sapien pellentesque. Lobortis
+      elementum nibh tellus molestie nunc non blandit massa. Fermentum odio eu
+      feugiat pretium nibh ipsum consequat nisl. Eget sit amet tellus cras
+      adipiscing enim eu. Ac turpis egestas integer eget aliquet nibh. Libero
+      enim sed faucibus turpis in eu mi bibendum. Nunc vel risus commodo viverra
+      maecenas. Ultrices tincidunt arcu non sodales. Vestibulum morbi blandit
+      cursus risus at ultrices. Diam quis enim lobortis scelerisque fermentum.
+      Sed turpis tincidunt id aliquet risus. Velit sed ullamcorper morbi
+      tincidunt ornare massa eget. Augue eget arcu dictum varius duis at
+      consectetur lorem donec. Sed elementum tempus egestas sed sed risus.
+      Aliquet bibendum enim facilisis gravida neque convallis a cras semper.
+      Ipsum consequat nisl vel pretium lectus. Donec ultrices tincidunt arcu non
+      sodales neque sodales. Mauris pharetra et ultrices neque ornare aenean.
+      Consectetur purus ut faucibus pulvinar elementum integer enim. Facilisis
+      sed odio morbi quis. Netus et malesuada fames ac turpis egestas maecenas.
+      Pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Blandit
+      massa enim nec dui nunc mattis enim ut. Imperdiet massa tincidunt nunc
+      pulvinar sapien et. Ultrices vitae auctor eu augue ut. Orci porta non
+      pulvinar neque laoreet suspendisse interdum. Purus in mollis nunc sed id.
+      Curabitur vitae nunc sed velit dignissim sodales ut. Nibh nisl condimentum
+      id venenatis. Tortor posuere ac ut consequat semper. Quisque non tellus
+      orci ac auctor. Rutrum tellus pellentesque eu tincidunt tortor aliquam.
+      Tristique et egestas quis ipsum suspendisse. Ut morbi tincidunt augue
+      interdum velit euismod in pellentesque massa. Viverra ipsum nunc aliquet
+      bibendum enim. Sem et tortor consequat id porta nibh. Aliquam faucibus
+      purus in massa. Curabitur vitae nunc sed velit dignissim. Duis convallis
+      convallis tellus id interdum. Tristique senectus et netus et malesuada
+      fames ac. Fermentum dui faucibus in ornare quam viverra orci. Enim neque
+      volutpat ac tincidunt vitae semper quis lectus nulla. Nibh mauris cursus
+      mattis molestie a iaculis at. Tincidunt lobortis feugiat vivamus at augue.
+      Risus ultricies tristique nulla aliquet enim. Leo in vitae turpis massa
+      sed elementum tempus egestas. Ultrices vitae auctor eu augue ut lectus
+      arcu bibendum. Scelerisque mauris pellentesque pulvinar pellentesque
+      habitant. Justo laoreet sit amet cursus sit amet dictum sit amet. Dictumst
+      quisque sagittis purus sit amet volutpat consequat mauris. Bibendum neque
+      egestas congue quisque egestas diam in arcu. Aliquam sem fringilla ut
+      morbi tincidunt augue interdum. At urna condimentum mattis pellentesque id
+      nibh tortor. Suspendisse sed nisi lacus sed viverra tellus in hac
+      habitasse. Pulvinar etiam non quam lacus suspendisse faucibus interdum
+      posuere.
     </h3>
   </div>
 );
