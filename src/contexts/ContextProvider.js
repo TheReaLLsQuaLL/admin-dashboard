@@ -4,7 +4,7 @@ const StateContext = createContext();
 
 const initialState = {
   chat: false,
-  card: false,
+  cart: false,
   userProfile: false,
   notification: false,
 };
@@ -50,6 +50,9 @@ export const ContextProvider = ({ children }) => {
         setMode,
         themeSettings,
         setThemeSettings,
+        setCurrentColor,
+        setCurrentMode,
+        initialState,
       }}
     >
       {children}
